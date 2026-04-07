@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>横浜・神大カラーの時間割アプリ</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans min-h-screen pb-10">
+
+    <header class="bg-ku-blue text-white p-4 shadow-md sticky top-0 z-10">
+        <div class="max-w-md mx-auto flex justify-between items-center">
+            <h1 id="user-title" class="text-xl font-bold">Aさんの時間割</h1>
+            <button id="switch-btn" class="bg-white text-ku-blue px-4 py-2 rounded-full text-sm font-semibold shadow-sm active:scale-95 transition-transform">
+                貫に切替
+            </button>
+        </div>
+    </header>
+
+    <main class="max-w-md mx-auto p-2">
+        <div class="grid grid-cols-6 gap-1 mb-2 text-center text-xs font-bold text-slate-500">
+            <div>月</div><div>火</div><div>水</div><div>木</div><div>金</div><div>他</div>
+        </div>
+
+        <div id="timetable-grid" class="grid grid-cols-6 gap-2">
+            </div>
+
+        <div class="mt-6 p-4 bg-white rounded-xl shadow-sm border border-slate-200">
+            <div class="flex justify-between items-center">
+                <span class="text-slate-500 font-medium">合計単位数</span>
+                <span id="total-credits" class="text-2xl font-bold text-ku-blue">0</span>
+            </div>
+        </div>
+    </main>
+
+    <div id="modal" class="fixed inset-0 bg-black/50 hidden z-50 flex items-center justify-center p-4">
+        <div class="bg-white w-full max-w-xs rounded-2xl p-6 shadow-2xl">
+            <h2 id="modal-subject" class="text-xl font-bold mb-2 text-ku-blue">科目名</h2>
+            <div class="space-y-2 text-sm">
+                <p><strong>教員:</strong> <span id="modal-teacher">-</span></p>
+                <p><strong>概要:</strong> <span id="modal-desc">-</span></p>
+                <p><strong>評価:</strong> <span id="modal-grading">-</span></p>
+                <p><strong>単位:</strong> <span id="modal-credits">-</span></p>
+            </div>
+            <button id="close-modal" class="mt-6 w-full py-3 bg-slate-100 rounded-xl font-bold text-slate-600">閉じる</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
