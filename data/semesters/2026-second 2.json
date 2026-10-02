@@ -1,0 +1,358 @@
+{
+  "id": "2026-second",
+  "label": "2026年度 後期",
+  "courses": [
+    {
+      "id": "21CC003",
+      "title": "宗教学",
+      "teacher": "前川理子",
+      "credits": 2,
+      "summary": "イスラーム・仏教など、アジアの宗教の成立と展開。",
+      "grading": "課題・リアクションペーパー100％。4回以上の欠席判定は評価対象外。",
+      "mode": "ondemand",
+      "notes": "管理上の代表として21CC003を採用。実際の履修クラスは未確認。原則月〜火に受講・課題提出。動画の受講記録も提出。",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/N11/N11_21CC003_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "21DA002",
+      "title": "経営学",
+      "teacher": "王中奇",
+      "credits": 2,
+      "summary": "組織運営・経営戦略・日本企業の経営を学ぶ。",
+      "grading": "期末レポート。5回以上の欠席は評価対象外。",
+      "mode": "inperson",
+      "notes": "一部遠隔授業の場合あり（4回以内）。",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/N11/N11_21DA002_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "23BC114",
+      "title": "日中翻訳演習Ⅰ（基礎）",
+      "teacher": "大羽りん",
+      "credits": 1,
+      "summary": "日本語から中国語への翻訳、訳文の修正・音読。",
+      "grading": "課題提出30％、課題完成度30％、最終課題40％。5回以上の欠席は評価対象外。",
+      "mode": "inperson",
+      "notes": "",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/130/130_23BC114_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "21FF003",
+      "title": "社会生活と健康",
+      "teacher": "若松健太",
+      "credits": 2,
+      "summary": "栄養・運動・疾病・ストレスなど、生活に役立つ健康知識。",
+      "grading": "理解度確認テスト10％、リアクションペーパー40％、授業態度・モラル50％。講義回数の3分の1以上の欠席は評価対象外。",
+      "mode": "remote",
+      "notes": "公式の形式欄はオンタイム0型、本文はオンデマンドと記載。火3の登録を保持し、WebClassの案内を確認してください。",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/N11/N11_21FF003_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "22AY157",
+      "title": "英語Ⅱ（Speaking）",
+      "teacher": "細田由利／モラレス・デル・カスティーヨ・カルロス",
+      "credits": 1,
+      "summary": "中国語③クラス。会話・発音・英語でのプレゼンテーション。",
+      "grading": "授業内試験30％、発表30％、参加態度40％。4分の3以上の出席が必要。",
+      "mode": "inperson",
+      "notes": "",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/N14/N14_22AY157_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "21GF003",
+      "title": "社会と人間",
+      "teacher": "高井典子",
+      "credits": 2,
+      "summary": "観光を通して社会や文化を見る力を養う。",
+      "grading": "第13回の対面試験。任意のリアクションペーパーで加点あり。",
+      "mode": "ondemand",
+      "notes": "第13回はみなとみらいキャンパスで対面筆記試験。公式に4007の記載あり。試験の日時・教室は授業案内も確認。",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/N11/N11_21GF003_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "23BC002",
+      "title": "高級中国語演習Ⅰ（基礎）B",
+      "teacher": "Guo Mengyao（公式漢字末尾は特殊文字）",
+      "credits": 1,
+      "summary": "前期の基礎を発展させ、中国語の作文・翻訳を練習。",
+      "grading": "課題・授業態度60％、授業内試験40％。欠席が3回を超えると評価対象外。",
+      "mode": "inperson",
+      "notes": "",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/130/130_23BC002_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "21FN001",
+      "title": "ボランティア論",
+      "teacher": "妻鹿ふみ子",
+      "credits": 2,
+      "summary": "社会・地域課題を学び、実際の活動に参加する。",
+      "grading": "リアクションペーパー50％、ワークシート40％、活動参加10％。",
+      "mode": "inperson",
+      "notes": "授業外のボランティア活動（2回程度）あり。",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/N11/N11_21FN001_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "21BB002",
+      "title": "教養データサイエンス",
+      "teacher": "孫安石",
+      "credits": 2,
+      "summary": "データ・AI・デジタル社会の基礎。",
+      "grading": "毎回の演習で計100点。動画視聴90分以上が必要。視聴不足の回は欠席扱いとなり、4回以上で不合格。",
+      "mode": "ondemand",
+      "notes": "演習の回答期限は各回の土曜9時。担当教員は本人からの情報で確定。",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/N11/N11_21BB002_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "22AY158",
+      "title": "英語Ⅱ（Listening）",
+      "teacher": "羽成拓史",
+      "credits": 1,
+      "summary": "中国語③クラス。聞き取り能力の向上とTOEIC対策。",
+      "grading": "参加・小テスト・発表・課題などを総合評価。配点の記載なし。4分の3以上の出席が必要。",
+      "mode": "inperson",
+      "notes": "",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/N14/N14_22AY158_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "23BC104",
+      "title": "中国政治経済概説B",
+      "teacher": "早田寛",
+      "credits": 2,
+      "summary": "中国の経済発展、制度、国内外への影響。",
+      "grading": "定期試験70％、コメントペーパー20％、小レポート10％。",
+      "mode": "inperson",
+      "notes": "",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/130/130_23BC104_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "23BC109",
+      "title": "中国歴史概説B",
+      "teacher": "孫安石",
+      "credits": 2,
+      "summary": "日中戦争から改革開放に至る中国現代史。",
+      "grading": "授業内試験50％、コメントシート50％。4回以上の欠席は評価対象外。",
+      "mode": "inperson",
+      "notes": "",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/130/130_23BC109_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "23BC167",
+      "title": "日中文章表現論ⅠB",
+      "teacher": "本田親史",
+      "credits": 2,
+      "summary": "日本語の論述・文章作成、中国語から日本語への翻訳。",
+      "grading": "平常点50％、学期末レポート50％。4回以上の欠席は評価対象外。",
+      "mode": "inperson",
+      "notes": "辞書の携行が必要。",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/130/130_23BC167_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "23BC102",
+      "title": "中国社会概説B",
+      "teacher": "本田親史",
+      "credits": 2,
+      "summary": "映像や時事的な話題から中国社会を考える。",
+      "grading": "平常点50％、授業内試験・学期末レポート50％。4回以上の欠席は評価対象外。",
+      "mode": "inperson",
+      "notes": "",
+      "sourceUrl": "https://webstation-koukai.kanagawa-u.ac.jp/syllabus/2026/130/130_23BC102_ja_JP.html",
+      "verifiedAt": "2026-09-30",
+      "sourceStatus": "2026年度後期シラバス照合済み"
+    },
+    {
+      "id": "research",
+      "title": "卒業研究",
+      "teacher": "内田智史（情報学部システム数理学科）",
+      "credits": null,
+      "summary": "火・水・木の3〜4限。",
+      "mode": "inperson",
+      "sourceStatus": "本人からの情報",
+      "notes": "教室・キャンパス・単位数は未確認。"
+    }
+  ],
+  "schedules": {
+    "A": [
+      {
+        "courseId": "21CC003",
+        "day": null,
+        "period": null,
+        "room": "オンデマンド"
+      },
+      {
+        "courseId": "21DA002",
+        "day": 2,
+        "period": 1,
+        "room": "3007"
+      },
+      {
+        "courseId": "23BC114",
+        "day": 2,
+        "period": 2,
+        "room": "2036"
+      },
+      {
+        "courseId": "21FF003",
+        "day": 2,
+        "period": 3,
+        "room": "遠隔・方式要確認"
+      },
+      {
+        "courseId": "22AY157",
+        "day": 2,
+        "period": 4,
+        "room": "15013"
+      },
+      {
+        "courseId": "21GF003",
+        "day": 2,
+        "period": 5,
+        "room": "オンデマンド／4007"
+      },
+      {
+        "courseId": "23BC002",
+        "day": 3,
+        "period": 1,
+        "room": "20032"
+      },
+      {
+        "courseId": "21FN001",
+        "day": 3,
+        "period": 2,
+        "room": "3008"
+      },
+      {
+        "courseId": "21BB002",
+        "day": null,
+        "period": null,
+        "room": "オンデマンド"
+      },
+      {
+        "courseId": "22AY158",
+        "day": 3,
+        "period": 4,
+        "room": "8015"
+      },
+      {
+        "courseId": "23BC104",
+        "day": 4,
+        "period": 1,
+        "room": "6008"
+      },
+      {
+        "courseId": "23BC109",
+        "day": 4,
+        "period": 3,
+        "room": "3009"
+      },
+      {
+        "courseId": "23BC167",
+        "day": 5,
+        "period": 2,
+        "room": "6010"
+      },
+      {
+        "courseId": "23BC102",
+        "day": 5,
+        "period": 3,
+        "room": "6010"
+      }
+    ],
+    "B": [
+      {
+        "courseId": "research",
+        "day": 2,
+        "period": 3,
+        "room": "場所未確認"
+      },
+      {
+        "courseId": "research",
+        "day": 2,
+        "period": 4,
+        "room": "場所未確認"
+      },
+      {
+        "courseId": "research",
+        "day": 3,
+        "period": 3,
+        "room": "場所未確認"
+      },
+      {
+        "courseId": "research",
+        "day": 3,
+        "period": 4,
+        "room": "場所未確認"
+      },
+      {
+        "courseId": "research",
+        "day": 4,
+        "period": 3,
+        "room": "場所未確認"
+      },
+      {
+        "courseId": "research",
+        "day": 4,
+        "period": 4,
+        "room": "場所未確認"
+      }
+    ]
+  },
+  "events": {
+    "A": [
+      {
+        "title": "宗教学の学習予定",
+        "courseId": "21CC003",
+        "day": 1,
+        "period": 5,
+        "kind": "study"
+      },
+      {
+        "title": "データサイエンスの学習予定",
+        "courseId": "21BB002",
+        "day": 3,
+        "period": 3,
+        "kind": "study"
+      },
+      {
+        "title": "サークル",
+        "day": 3,
+        "period": 5,
+        "kind": "personal",
+        "room": "場所未登録"
+      }
+    ],
+    "B": [
+      {
+        "title": "将棋・体験型学習（SA）",
+        "day": 1,
+        "period": 2,
+        "kind": "personal",
+        "room": "みなとみらい／教室未確認"
+      }
+    ]
+  }
+}
